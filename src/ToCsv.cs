@@ -1,4 +1,4 @@
-﻿namespace easy_csv
+﻿namespace Easy.Csv 
 {
     public class ToCsv
     {
